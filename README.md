@@ -24,7 +24,7 @@ List of services offering encrypting/signing an e-mail before sending it to you 
 
  - njal.la - [Yes/PGP](https://njal.la/#faq)
 
-## Educations
+## Education
 
 ## Entertainment
 
