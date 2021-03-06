@@ -21,6 +21,8 @@ List of services offering encrypting/signing an e-mail before sending it to you 
 
 ## Developer
 
+ - sourcehut.org - [Only them to you/PGP](https://sourcehut.org/blog/2020-03-04-when-you-lose-2fa/)
+
 ## Domains
 
  - njal.la - [Yes/PGP](https://njal.la/#faq)
