@@ -35,6 +35,12 @@ List of services offering encrypting/signing an e-mail before sending it to you 
 
 ## Food
 
+## FOSS Service Providers
+
+ - nixnet.services - [Yes/PGP](https://nixnet.services/contact/)
+ - snopyta.org - [Yes/PGP](https://snopyta.org)
+ - bus-hit.me - [Yes/PGP](https://austinhuang.me/#contact-me)
+
 ## Gaming
 
 ## Government
