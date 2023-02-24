@@ -18,6 +18,7 @@ List of services offering encrypting/signing an e-mail before sending it to you 
  - gatehub.com - [Yes/PGP](https://support.gatehub.net/hc/en-us/articles/360021238114-GPG-PGP-Encryption-Support)
  - kraken.com - [Signing only/PGP](https://www.kraken.com/en-us/features/security/pgp)
  - coinpayments.net - [Signing only/PGP](https://www.coinpayments.net/help-signed-emails)
+ - majesticbank.sc - [Yes/PGP](https://majesticbank.sc/contact-us)
 
 ## Developer
 
