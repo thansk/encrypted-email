@@ -46,6 +46,8 @@ List of services offering encrypting/signing an e-mail before sending it to you 
 
 ## Government
 
+- 🇨🇿 Czech National Cyber Security Center - [Yes/PGP](https://www.govcert.cz/en/contacts/pgp/)
+
 ## Health
 
 ## Hosting/Servers
