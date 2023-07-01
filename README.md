@@ -47,6 +47,7 @@ List of services offering encrypting/signing an e-mail before sending it to you 
 ## Government
 
 - 🇨🇿 Czech National Cyber Security Center - [Yes/PGP](https://www.govcert.cz/en/contacts/pgp/)
+- 🇩🇪 Computer Emergency Response Team for Germany's federal authorities - [Yes/PGP](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Reaktion/CERT-Bund/Kontakt/kontakt.html)
 - 🇳🇱 Dutch National Cyber Security Center - [Yes/PGP](https://english.ncsc.nl/contact/pgp-key)
 
 ## Health
