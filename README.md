@@ -76,13 +76,13 @@ List of services offering encrypting/signing an e-mail before sending it to you 
 
 ## Retail
 
- - apple.com - [Yes/PGP](https://support.apple.com/en-us/HT201214)
+ - apple.com - [Signing only/PGP](https://support.apple.com/en-us/HT201214)
 
 ## Security
 
 ## Social
 
- - facebook.com - [Only them to you/PGP](https://facebook.com/notes/799875270786391/)
+ - ~facebook.com - [Only them to you/PGP](https://facebook.com/notes/799875270786391/) ([deprecated on Dec 5, 2023](https://joltmailer.com/facebook-ends-pgp-encrypted-emails-support/))~
 
 ## Task Management
 
