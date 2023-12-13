@@ -16,9 +16,11 @@ List of services offering encrypting/signing an e-mail before sending it to you 
 
  - bitfinex.com - [Yes/PGP](https://www.bitfinex.com/security-policy/)
  - gatehub.com - [Yes/PGP](https://support.gatehub.net/hc/en-us/articles/360021238114-GPG-PGP-Encryption-Support)
- - kraken.com - [Signing only/PGP](https://www.kraken.com/en-us/features/security/pgp)
+ - kraken.com - [Sign/PGP](https://www.kraken.com/en-us/features/security/pgp) and [Encrypt/PGP](https://support.kraken.com/hc/en-us/articles/360001473506-How-can-I-contact-your-support-team-using-PGP-GPG-email-encryption-)
  - coinpayments.net - [Signing only/PGP](https://www.coinpayments.net/help-signed-emails)
  - majesticbank.sc - [Yes/PGP](https://majesticbank.sc/contact-us)
+ - flyp.me - [Yes/PGP](https://holytransaction.com/security/fra.txt)
+ - xchange.me - [Signing only/PGP](https://xchange.me/pgp.txt)
 
 ## Developer
 
