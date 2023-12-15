@@ -32,6 +32,10 @@ List of services offering encrypting/signing an e-mail before sending it to you 
 
 ## Education
 
+## Email
+
+ - proton.me - [Yes/PGP](https://api.protonmail.ch/pks/lookup?op=get&search=contact@proton.me)
+
 ## Entertainment
 
 ## Finance
@@ -81,6 +85,8 @@ List of services offering encrypting/signing an e-mail before sending it to you 
  - apple.com - [Signing only/PGP](https://support.apple.com/en-us/HT201214)
 
 ## Security
+
+ - buskill.in - [Yes/PGP](https://www.buskill.in/contact/)
 
 ## Social
 
