@@ -4,6 +4,8 @@ List of services offering encrypting/signing an e-mail before sending it to you 
 
 ## Backup & Sync
 
+ - filen.io - [Yes/PGP](https://filen.io/pgp)
+
 ## Banking
 
 ## Betting
