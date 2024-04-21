@@ -17,11 +17,11 @@ List of services offering encrypting/signing an e-mail before sending it to you 
 ## Cryptocurrency
 
  - bitfinex.com - [Yes/PGP](https://www.bitfinex.com/security-policy/)
+ - coinpayments.net - [Signing only/PGP](https://www.coinpayments.net/help-signed-emails)
+ - flyp.me - [Yes/PGP](https://holytransaction.com/security/fra.txt)
  - gatehub.com - [Yes/PGP](https://support.gatehub.net/hc/en-us/articles/360021238114-GPG-PGP-Encryption-Support)
  - kraken.com - [Sign/PGP](https://www.kraken.com/en-us/features/security/pgp) and [Encrypt/PGP](https://support.kraken.com/hc/en-us/articles/360001473506-How-can-I-contact-your-support-team-using-PGP-GPG-email-encryption-)
- - coinpayments.net - [Signing only/PGP](https://www.coinpayments.net/help-signed-emails)
  - majesticbank.sc - [Yes/PGP](https://majesticbank.sc/contact-us)
- - flyp.me - [Yes/PGP](https://holytransaction.com/security/fra.txt)
  - xchange.me - [Signing only/PGP](https://xchange.me/pgp.txt)
 
 ## Developer
@@ -46,9 +46,11 @@ List of services offering encrypting/signing an e-mail before sending it to you 
 
 ## FOSS Service Providers
 
- - nixnet.services - [Yes/PGP](https://nixnet.services/contact/)
- - snopyta.org - [Yes/PGP](https://snopyta.org)
  - bus-hit.me - [Yes/PGP](https://austinhuang.me/#contact-me)
+ - nixnet.services - [Yes/PGP](https://nixnet.services/contact/)
+ - r4fo.com - [Yes/PGP](https://r4fo.com/contact/)
+ - snopyta.org - [Yes/PGP](https://snopyta.org)
+ - tux.pizza - [Yes/PGP](https://tux.pizza/about/#-contact)
 
 ## Gaming
 
