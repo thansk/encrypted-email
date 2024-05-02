@@ -49,7 +49,6 @@ List of services offering encrypting/signing an e-mail before sending it to you 
  - bus-hit.me - [Yes/PGP](https://austinhuang.me/#contact-me)
  - nixnet.services - [Yes/PGP](https://nixnet.services/contact/)
  - r4fo.com - [Yes/PGP](https://r4fo.com/contact/)
- - snopyta.org - [Yes/PGP](https://snopyta.org)
  - tux.pizza - [Yes/PGP](https://tux.pizza/about/#-contact)
 
 ## Gaming
